@@ -1,0 +1,14 @@
+resume:
+  output_name: "tech_resume.pdf"
+  keywords_to_include: ["development", "leadership", "Python"]
+  minimum_bullets_per_experience: 2
+  allow_more_than_one_page: false
+  template: "modern"
+  header:
+    include_github: false
+    include_linkedin: false
+    include_website: true
+  order:
+    - work_history
+    - education
+    - skills
