@@ -1,0 +1,111 @@
+header:
+  author: "John Doe"
+  email: "example@gmail.com"
+  phone: "123-456-7890"
+  linkedin: "linkedin.com/in/johndoe"
+  github: "github.com/johndoe"
+  website: "johndoe.com"
+  location: "New York, NY"
+
+work_history:
+  - job_title: "Software Engineer"
+    company: "Tech Company"
+    location: "New York, NY"
+    start_date: "January 2019"
+    end_date: "Present"
+    bullets:
+      - bullet: "Developed applications using R and Python."
+        tags: ["development", "Python"]
+      - bullet: "Led a team of 5 in software design."
+        tags: ["leadership", "teamwork"]
+      - bullet: "Developed a new feature for the company's website."
+        tags: ["development", "web"]
+      - bullet: "Built machine learning models for data analysis."
+        tags: ["development", "machine learning", "Python"]
+  - job_title: "Data Analyst"
+    company: "Data Company"
+    location: "New York, NY"
+    start_date: "January 2017"
+    end_date: "December 2018"
+    bullets:
+      - bullet: "Analyzed data using SQL and Python."
+        tags: ["data analysis", "SQL", "Python"]
+      - bullet: "Created visualizations for data analysis."
+        tags: ["data analysis", "visualization"]
+      - bullet: "Worked with a team to analyze data."
+        tags: ["teamwork", "data analysis"]
+  - job_title: "Intern"
+    company: "Tech Company"
+    location: "New York, NY"
+    start_date: "June 2016"
+    end_date: "August 2016"
+    bullets:
+      - bullet: "Assisted in software development projects."
+        tags: ["development", "internship"]
+      - bullet: "Learned about software design and development."
+        tags: ["development", "learning"]
+
+education:
+  - degree: "Bachelor of Science in Computer Science"
+    school: "University of New York"
+    location: "New York, NY"
+    start_date: "September 2013"
+    end_date: "May 2017"
+    gpa: "3.8"
+  - degree: "High School Diploma"
+    school: "High School"
+    location: "New York, NY"
+    start_date: "September 2009"
+    end_date: "June 2013"
+    gpa: "4.0"
+
+skills:
+  - category: "Programming Languages"
+    items: ["Python", "R", "Java", "C++"]
+  - category: "Data Analysis Tools"
+    items: ["SQL", "Pandas", "NumPy", "Matplotlib", "Seaborn", "tidyverse", "ggplot2"]
+  - category: "Web Development"
+    items: ["HTML", "CSS", "JavaScript", "React"]
+  - category: "Machine Learning"
+    items: ["Scikit-learn", "TensorFlow", "Keras", "PyTorch"]
+  - category: "Other"
+    items: ["Git", "Docker", "Linux", "Jupyter Notebook", "VS Code", "RStudio", "MS Office", "Google Suite", "Asana", "Slack"]
+
+projects:
+  - title: "Data Analysis Project"
+    description: "Analyzed data from a real-world dataset using Python and SQL."
+    tags: ["data analysis", "Python", "SQL"]
+  - title: "Machine Learning Project"
+    description: "Built a machine learning model to predict customer churn using Python."
+    tags: ["machine learning", "Python"]
+  - title: "Web Development Project"
+    description: "Created a personal website using HTML, CSS, and JavaScript."
+    tags: ["web development", "HTML", "CSS", "JavaScript"]
+
+certifications:
+  - title: "Data Science Certificate"
+    issuer: "Data Science Institute"
+    issue_date: "January 2018"
+  - title: "Machine Learning Certificate"
+    issuer: "Machine Learning Academy"
+    issue_date: "March 2019"
+
+volunteer_experience:
+  - organization: "Tech Nonprofit"
+    location: "New York, NY"
+    start_date: "January 2018"
+    end_date: "Present"
+    position: "Volunteer"
+    description: "Assist in software development projects for nonprofit organizations."
+  - organization: "Community Center"
+    location: "New York, NY"
+    start_date: "June 2017"
+    end_date: "December 2017"
+    position: "Volunteer"
+    description: "Helped organize community events and activities."
+
+languages:
+  - language: "English"
+    proficiency: "Native"
+  - language: "Spanish"
+    proficiency: "Intermediate"
