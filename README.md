@@ -12,5 +12,3 @@ You can install the development version of `rresume` from GitHub with:
 # install.packages("devtools")
 devtools::install_github("mfgeary/rresume")
 ```
-
-
