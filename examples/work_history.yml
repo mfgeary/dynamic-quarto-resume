@@ -7,7 +7,7 @@ header:
   website: "johndoe.com"
   location: "New York, NY"
 
-work_history:
+experience:
   - job_title: "Software Engineer"
     company: "Tech Company"
     location: "New York, NY"

@@ -1,0 +1,44 @@
+---
+format: pdf
+font: Times New Roman
+font-size: 11
+margins:
+    top: 0.5in
+    bottom: 0.5in
+    left: 0.5in
+    right: 0.5in
+linkcolor: black
+linkstyle: underline
+keep-md: true
+---
+
+\centerline{\large \textbf{ John Doe }}
+
+\centerline{Address Line 1, City, State, Zip Code}
+
+\begin{center}
+email@example.com | 123-456-7890 | [linkedin.com/in/johndoe](https://www.linkedin.com/in/johndoe) | [github.com/johndoe](https://www.github.com/johndoe)
+\end{center}
+
+**EDUCATION**
+\vspace{3pt}
+\hrule
+
+\textbf{Degree Name} \hfill Month Year - Month Year
+
+\textit{University Name}, City, State
+
+**EXPERIENCE**
+\vspace{3pt}
+\hrule
+
+\textbf{Job Title} \hfill Month Year - Month Year
+
+\textit{Company Name}, City, State
+
+\begin{itemize}
+    \item Bullet point 1
+    \item Bullet point 2
+\end{itemize}
+
+
